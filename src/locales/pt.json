@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "timeline": "Trajetória",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou o",
+    "name": "Luis",
+    "role": "Analista de Suporte na Minerion | Entusiasta em Análise de Dados & Desenvolvimento Full Stack",
+    "description": "Graduando em Sistemas de Informação com sólida base técnica. Atuo no intermédio entre o suporte técnico e o desenvolvimento, utilizando minha vivência em implantações para criar soluções que resolvem problemas reais de negócio.",
+    "cta_projects": "Ver Portfólio",
+    "cta_contact": "Entrar em Contato",
+    "scroll": "Role para explorar"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "subtitle": "Conectando tecnologia à visão de negócios",
+    "description": "Minha atuação em Suporte e Implantação na Minerion me proporcionou uma visão privilegiada dos processos empresariais. Não apenas escrevo código ou analiso dados; eu compreendo o contexto operacional por trás de cada demanda. Essa perspectiva me permite desenvolver ferramentas mais assertivas, intuitivas e alinhadas com as necessidades finais do usuário.",
+    "differential": "Meu Diferencial",
+    "differential_text": "A linha de frente do suporte me ensinou o que a teoria não ensina: empatia com o usuário. Sei identificar gargalos, antecipar dificuldades de usabilidade e traduzir requisitos complexos em entregas funcionais."
+  },
+  "differentials": {
+    "client_vision": "Foco no Cliente",
+    "client_vision_text": "Desenvolvimento orientado ao usuário final. Compreendo as dores reais do cliente para entregar soluções que geram valor imediato e facilitam o dia a dia.",
+    "analyst_thinking": "Pensamento Analítico",
+    "analyst_thinking_text": "Habilidade de traduzir problemas complexos em etapas lógicas, transformando desafios abstratos em soluções técnicas práticas.",
+    "business_process": "Visão Sistêmica",
+    "business_process_text": "Domínio do ciclo dos processos empresariais, da elaboração à entrega de obrigações, garantindo que os sistemas atendam a todos os requisitos de negócio.",
+    "communication": "Comunicação Assertiva",
+    "communication_text": "Capacidade de atuar como ponte entre linguagem técnica e não-técnica, traduzindo o técnico para uma linguagem clara e coesa."
+  },
+  "contact": {
+    "title": "Vamos Conversar?",
+    "subtitle": "Estou disponível para novos desafios e parcerias.",
+    "download_cv": "Baixar Currículo",
+    "send_message": "Enviar Mensagem",
+    "name_label": "Nome",
+    "email_label": "E-mail",
+    "message_label": "Mensagem",
+    "success": "Sua mensagem foi enviada com sucesso!",
+    "error": "Por favor, preencha todos os campos obrigatórios."
+  },
+  "footer": {
+    "rights": "Copyright © 2025 Luis Miguel. Todos os direitos reservados"
+  },
+  "projects": {
+    "title": "Projetos",
+    "subtitle": "Soluções desenvolvidas com foco em performance e usabilidade",
+    "viewMore": "Ver mais no GitHub",
+    "featured": "Destaque",
+    "filterAll": "Todos"
+  },
+  "timeline": {
+    "title": "Experiência",
+    "subtitle": "Minha jornada profissional e acadêmica",
+    "current": "Atual",
+    "work": "Profissional",
+    "education": "Acadêmico",
+    "achievement": "Certificações"
+  }
+}

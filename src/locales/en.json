@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "timeline": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Luis",
+    "role": "Support Analyst at Minerion | Data Analysis & Full Stack Development Enthusiast",
+    "description": "Information Systems undergraduate with a solid technical foundation. I bridge the gap between technical support and development, leveraging my implementation experience to craft solutions that solve real business problems.",
+    "cta_projects": "View Portfolio",
+    "cta_contact": "Get in Touch",
+    "scroll": "Scroll to explore"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "Connecting technology to business vision",
+    "description": "My work in Support and Implementation at Minerion has given me a privileged view of business processes. I don't just write code or analyze data; I understand the operational context behind every request. This perspective enables me to build tools that are more precise, intuitive, and aligned with the user's ultimate needs.",
+    "differential": "My Differential",
+    "differential_text": "The support front line taught me what theory cannot: empathy for the user. I know how to identify bottlenecks, anticipate usability issues, and translate complex requirements into functional deliverables."
+  },
+  "differentials": {
+    "client_vision": "Client Focus",
+    "client_vision_text": "User-centric development. I understand the client's actual pain points to deliver solutions that generate immediate value and streamline daily tasks.",
+    "analyst_thinking": "Analytical Thinking",
+    "analyst_thinking_text": "Ability to break down complex problems into logical steps, transforming abstract challenges into practical technical solutions.",
+    "business_process": "Systemic View",
+    "business_process_text": "Mastery of the business process lifecycle, from inception to compliance delivery, ensuring systems meet all business requirements.",
+    "communication": "Assertive Communication",
+    "communication_text": "Ability to bridge the gap between technical and non-technical audiences, translating tech concepts into clear, cohesive language."
+  },
+  "contact": {
+    "title": "Let's Talk?",
+    "subtitle": "I am available for new challenges and partnerships.",
+    "download_cv": "Download Resume",
+    "send_message": "Send Message",
+    "name_label": "Name",
+    "email_label": "Email",
+    "message_label": "Message",
+    "success": "Your message has been sent successfully!",
+    "error": "Please fill in all required fields."
+  },
+  "footer": {
+    "rights": "Copyright © 2025 Luis Miguel. All rights reserved"
+  },
+  "projects": {
+    "title": "Projects",
+    "subtitle": "Solutions developed with a focus on performance and usability",
+    "viewMore": "View more on GitHub",
+    "featured": "Featured",
+    "filterAll": "All"
+  },
+  "timeline": {
+    "title": "Experience",
+    "subtitle": "My professional and academic journey",
+    "current": "Current",
+    "work": "Professional",
+    "education": "Academic",
+    "achievement": "Certifications"
+  }
+}
