@@ -114,8 +114,8 @@ export default function Contact() {
     // A tag <a> com atributo download é a forma mais simples e recomendada
     // para forçar o download de arquivos estáticos como PDF.[web:57][web:60]
 
-    const cvPtHref = '/cv/curriculo-pt.pdf'
-    const cvEnHref = '/cv/resume-en.pdf'
+    const cvPtHref = '/cv/curriculo-luis-miguel.pdf'
+    const cvEnHref = '/cv/resume-luis-miguel.pdf'
 
     // ========================================================================
     // JSX - ESTRUTURA VISUAL DA SEÇÃO
