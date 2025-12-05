@@ -30,5 +30,5 @@ body {
 }
 
 .glass {
-    @apply bg-white/10 dark:bg-black/10 backdrop-blur-md border border-white/20 dark:border-white/10;
+    @apply bg-slate-700/10 dark:bg-black/10 backdrop-blur-md border border-white/20 dark:border-white/10;
 }
