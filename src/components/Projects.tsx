@@ -56,21 +56,23 @@ export default function Projects() {
             image: '/projects/starvault.png',
             technologies: ['Laravel', 'JavaScript', 'Bootstrap', 'MySQL', 'HTML', 'CSS'],
             category: 'Web',
-            github: 'https://github.com/seuusuario/starvault',
+            github: 'https://github.com/luis-m-sousa/starvault',
             liveUrl: 'https://starvault.example.com',
             featured: true,
             slug: 'starvault',
         },
+        /*
+
         {
             id: 2,
-            title: 'Análise de Vendas',
+            title: '',
             description: 'Dashboard de análise de vendas com Python e SQL.',
             longDescription:
                 'Projeto de análise de dados utilizando Python, Pandas e SQL para explorar métricas de vendas, ticket médio, sazonalidade e segmentação de clientes, com visualizações claras para apoiar decisões de negócio.',
             image: '/projects/data-sales.png',
             technologies: ['Python', 'Pandas', 'NumPy', 'SQL', 'Matplotlib'],
             category: 'Data',
-            github: 'https://github.com/seuusuario/sales-analysis',
+            github: 'https://github.com/luis-m-sousa/sales-analysis',
             featured: false,
             slug: 'analise-vendas',
         },
@@ -83,7 +85,7 @@ export default function Projects() {
             image: '/projects/webscraping-finance.png',
             technologies: ['Python', 'BeautifulSoup', 'Selenium', 'PostgreSQL'],
             category: 'Data',
-            github: 'https://github.com/seuusuario/webscraping-financeiro',
+            github: 'https://github.com/luis-m-sousa/webscraping-financeiro',
             featured: false,
             slug: 'web-scraping-financeiro',
         },
@@ -96,7 +98,7 @@ export default function Projects() {
             image: '/projects/client-api.png',
             technologies: ['Node.js', 'Express', 'JWT', 'MongoDB', 'Swagger'],
             category: 'Backend',
-            github: 'https://github.com/seuusuario/client-api',
+            github: 'https://github.com/luis-m-sousa/client-api',
             featured: false,
             slug: 'api-clientes',
         },
@@ -109,13 +111,15 @@ export default function Projects() {
             image: '/projects/portfolio-data.png',
             technologies: ['Next.js', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
             category: 'Web',
-            github: 'https://github.com/seuusuario/portfolio-data',
+            github: 'https://github.com/luis-m-sousa/portfolio-data',
             featured: false,
             slug: 'portfolio-data-driven',
         },
+
+         */
     ]
 
-    const categories = ['all', 'Web', 'Data', 'Backend', 'Mobile']
+    const categories = ['all', 'Web', 'Data', 'Backend' /*, 'Mobile'*/]
 
     const filteredProjects = projects.filter(
         (project) => selectedCategory === 'all' || project.category === selectedCategory
