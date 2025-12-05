@@ -57,7 +57,7 @@ export default function Projects() {
             technologies: ['Laravel', 'JavaScript', 'Bootstrap', 'MySQL', 'HTML', 'CSS'],
             category: 'Web',
             github: 'https://github.com/luis-m-sousa/starvault',
-            liveUrl: 'https://starvault.example.com',
+            liveUrl: '',
             featured: true,
             slug: 'starvault',
         },
